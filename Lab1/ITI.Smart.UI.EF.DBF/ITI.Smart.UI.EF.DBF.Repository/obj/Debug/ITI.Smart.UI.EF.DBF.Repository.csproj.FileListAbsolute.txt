@@ -1,0 +1,10 @@
+E:\ITI\Entity Framwork\Lab1\ITI.Smart.UI.EF.DBF\ITI.Smart.UI.EF.DBF.Repository\bin\Debug\ITI.Smart.UI.EF.DBF.Repository.dll.config
+E:\ITI\Entity Framwork\Lab1\ITI.Smart.UI.EF.DBF\ITI.Smart.UI.EF.DBF.Repository\bin\Debug\ITI.Smart.UI.EF.DBF.Repository.dll
+E:\ITI\Entity Framwork\Lab1\ITI.Smart.UI.EF.DBF\ITI.Smart.UI.EF.DBF.Repository\bin\Debug\ITI.Smart.UI.EF.DBF.Repository.pdb
+E:\ITI\Entity Framwork\Lab1\ITI.Smart.UI.EF.DBF\ITI.Smart.UI.EF.DBF.Repository\bin\Debug\EntityFramework.dll
+E:\ITI\Entity Framwork\Lab1\ITI.Smart.UI.EF.DBF\ITI.Smart.UI.EF.DBF.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITI\Entity Framwork\Lab1\ITI.Smart.UI.EF.DBF\ITI.Smart.UI.EF.DBF.Repository\bin\Debug\EntityFramework.xml
+E:\ITI\Entity Framwork\Lab1\ITI.Smart.UI.EF.DBF\ITI.Smart.UI.EF.DBF.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITI\Entity Framwork\Lab1\ITI.Smart.UI.EF.DBF\ITI.Smart.UI.EF.DBF.Repository\obj\Debug\ITI.Smart.UI.EF.DBF.Repository.csprojResolveAssemblyReference.cache
+E:\ITI\Entity Framwork\Lab1\ITI.Smart.UI.EF.DBF\ITI.Smart.UI.EF.DBF.Repository\obj\Debug\ITI.Smart.UI.EF.DBF.Repository.dll
+E:\ITI\Entity Framwork\Lab1\ITI.Smart.UI.EF.DBF\ITI.Smart.UI.EF.DBF.Repository\obj\Debug\ITI.Smart.UI.EF.DBF.Repository.pdb

@@ -1,0 +1,13 @@
+2019-04-30 15:12:52,362 [1] DEBUG HibernatingRhinos.Profiler.Client.App [(null)] - Profiler initialized. Build: 5033
+2019-04-30 15:13:09,894 [1] WARN  Rhino.Licensing.AbstractLicenseValidator [(null)] - Could not find license file: C:\Users\oMnia\AppData\Local\EntityFramework Profiler\license.xml
+2019-04-30 15:19:37,447 [1] WARN  Rhino.Licensing.AbstractLicenseValidator [(null)] - License expiration date is 05/31/2019 00:00:00
+2019-04-30 15:19:38,268 [1] DEBUG Rhino.Licensing.AbstractLicenseValidator [(null)] - License accepted for EntityFramework Profiler
+2019-04-30 15:19:45,380 [21] INFO  HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.ProfilerAutoUpdate [(null)] - Checking for updates...
+2019-04-30 15:51:05,609 [1] DEBUG HibernatingRhinos.Profiler.Client.App [(null)] - Profiler initialized. Build: 5033
+2019-04-30 15:51:08,400 [1] WARN  Rhino.Licensing.AbstractLicenseValidator [(null)] - License expiration date is 05/31/2019 00:00:00
+2019-04-30 15:51:08,727 [1] DEBUG Rhino.Licensing.AbstractLicenseValidator [(null)] - License accepted for EntityFramework Profiler
+2019-04-30 15:51:08,745 [5] INFO  HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.ProfilerAutoUpdate [(null)] - Checking for updates...
+2019-05-02 15:07:23,079 [1] DEBUG HibernatingRhinos.Profiler.Client.App [(null)] - Profiler initialized. Build: 5033
+2019-05-02 15:07:28,031 [1] WARN  Rhino.Licensing.AbstractLicenseValidator [(null)] - License expiration date is 05/31/2019 00:00:00
+2019-05-02 15:07:28,759 [1] DEBUG Rhino.Licensing.AbstractLicenseValidator [(null)] - License accepted for EntityFramework Profiler
+2019-05-02 15:07:28,785 [12] INFO  HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.ProfilerAutoUpdate [(null)] - Checking for updates...
